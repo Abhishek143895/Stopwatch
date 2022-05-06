@@ -1,6 +1,6 @@
 ## Project Name: Stopwatch
 
-Project Description: Creating Multi-Functional Stopwatch using Html, Css, Vanilla Javascript.
+## Project Description: Creating Multi-Functional Stopwatch using Html, Css, Vanilla Javascript.
 
 
 ## Features
