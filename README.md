@@ -16,7 +16,7 @@ https://github.com/Abhishek143895
 
 
 ## Screenshot
-https://prnt.sc/KYYtIH6v5MAu
+https://www.linkpicture.com/q/Capture_1061.png
 
 
 ## Author
