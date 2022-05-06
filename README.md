@@ -1,4 +1,4 @@
-Project Name: Stopwatch
+## Project Name: Stopwatch
 
 Project Description: Creating Multi-Functional Stopwatch using Html, Css, Vanilla Javascript.
 
