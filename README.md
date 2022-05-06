@@ -1,9 +1,6 @@
-Project Name- Stopwatch
+Project Name: Stopwatch
 
-Project Description:
-
-Creating Multi-Functional Stopwatch using Html, Css, Vanilla Javascript.
-
+Project Description: Creating Multi-Functional Stopwatch using Html, Css, Vanilla Javascript.
 
 
 ## Features
@@ -18,11 +15,10 @@ I'm a frontEnd Web developer
 https://github.com/Abhishek143895
 
 
-
-
-## Screenshots 
+## Screenshot
 https://prnt.sc/KYYtIH6v5MAu
 
-## Authors
+
+## Author
 www.linkedin.com/in/abhishek-srivastava-933b6a19a
 Abhishek srivastava
